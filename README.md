@@ -32,6 +32,7 @@ The last feature is to give users an insight of how this particular stock is doi
 - Exponential Moving Average
 - Relative Strength Index 
 - Volume 
+
 ![alt text](https://github.com/haozac/Ai-Conversational-Chatbot-for-Bursa-Advisor/blob/main/stock_chart.png?raw=true)
 
 An example of feedback from the bot is as below: 
